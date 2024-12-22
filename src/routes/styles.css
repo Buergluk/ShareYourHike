@@ -1,0 +1,12 @@
+h1 {
+    color: sandybrown;
+}
+
+body {
+    background-image: url('/src/routes/Zerfalta.JPG');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+    margin: 0; 
+}
